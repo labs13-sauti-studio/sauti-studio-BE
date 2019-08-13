@@ -269,8 +269,4 @@ module.exports = router;
 // don't know if that's how Sauti's is or not yet...
 
 
-<<<<<<< HEAD
 // work out how to delete session data every X amount of minutes/hours
-=======
-
->>>>>>> fa4bd1487d10ca0a09d4ca3cdad9555a82768072
